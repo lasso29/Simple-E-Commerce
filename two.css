@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.top{
+    width: 80vw;
+    margin: auto;
+    margin-top: 20px;
+}   
+.top2{
+    display: flex;
+}
+.picture1{
+    width: 37px;
+    height: 37px;
+}
+.text1{
+    font-family: tahoma;
+    font-size: 40px;
+    font-weight: 600;
+}
+.inner3{
+    width: 500px;
+}
+.picture2{
+    width: 370px;
+    height: 300px;
+}
+.pic{
+    width: 120px;
+}
+table, tr, td{
+    border:1px solid black;
+}
+
+.box{
+    border: 1px solid;
+}
+
+.text3{
+    font-size: 50px;
+}
+#text5{
+    background-color: black;
+    color: white;
+}
+span{
+    width: 30px;
+    height: 35px;
+    font-size: 15px;   
+}
+.inner4 button{
+    width: 30px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.inner5 button{
+    width: 150px;
+    height: 40px;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
